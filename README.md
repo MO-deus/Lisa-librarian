@@ -12,7 +12,7 @@ Safari is not supported!
 <a href="https://www.npmjs.com"><img src="https://www.drupal.org/files/project-images/Npm-logo.png" width="165" height="60"></a>
 
 
-# Preview 🔍
+<!-- # Preview 🔍
 <img src="https://i.imgur.com/U26kp9W.jpg" width=1900> <br />
 <img src="https://i.imgur.com/NiK5u6R.jpg" width=1900> <br /> 
 <img src="https://i.imgur.com/QQvTaOj.jpg" width=1900> <br />
@@ -20,11 +20,11 @@ Safari is not supported!
 <img src="https://i.imgur.com/Ynbd5kY.jpg" width="300"> 
 <img src="https://i.imgur.com/DHPIFt8.jpg" width="300">
 <img src="https://i.imgur.com/uFRPWsy.jpg" width="300"> <br/>
-<img src="https://i.imgur.com/J7le3tt.jpg">
+<img src="https://i.imgur.com/J7le3tt.jpg"> -->
 
 # Quick Start 🚀
-```git clone https://github.com/irevenko/artichoke-chat.git```<br>
-```cd artichoke-chat```<br>
+```git clone https://github.com/MO-deus/Lisa-librarian.git```<br>
+```cd Lisa-librarian```<br>
 ```npm install```<br>
 ```npm start  or  nodemon server.js```<br>
 ```go to localhost:3000```
@@ -40,4 +40,4 @@ Safari is not supported!
 * Gathering front-end and back-end together
 
 # License 📑 
-(c) 2020 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
+(c) 2023 Kush Waikar. [MIT License](https://tldrlegal.com/license/mit-license)
