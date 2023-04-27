@@ -41,6 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 Lisa-librarian/
+public/images/
 # TypeScript v1 declaration files
 typings/
 
