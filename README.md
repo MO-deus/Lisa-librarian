@@ -12,15 +12,10 @@ Safari is not supported!
 <a href="https://www.npmjs.com"><img src="https://www.drupal.org/files/project-images/Npm-logo.png" width="165" height="60"></a>
 
 
-<!-- # Preview 🔍
-<img src="https://i.imgur.com/U26kp9W.jpg" width=1900> <br />
-<img src="https://i.imgur.com/NiK5u6R.jpg" width=1900> <br /> 
-<img src="https://i.imgur.com/QQvTaOj.jpg" width=1900> <br />
-<img src="https://i.imgur.com/hQNDXvF.jpg" width="300">
-<img src="https://i.imgur.com/Ynbd5kY.jpg" width="300"> 
-<img src="https://i.imgur.com/DHPIFt8.jpg" width="300">
-<img src="https://i.imgur.com/uFRPWsy.jpg" width="300"> <br/>
-<img src="https://i.imgur.com/J7le3tt.jpg"> -->
+# Preview 🔍
+
+    - refer to snapshots for app preview
+
 
 # Quick Start 🚀
 ```git clone https://github.com/MO-deus/Lisa-librarian.git```<br>
