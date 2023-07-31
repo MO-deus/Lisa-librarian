@@ -1,5 +1,7 @@
+
+
 body {
-   --accent-color: #6f07ef;
+   --accent-color: #21e755;
    --background-color: white;
    --chat-background: rgb(251, 251, 251);
    --second-color: #effaf3;
@@ -16,7 +18,7 @@ body.dark {
    --background-color: #333;
    --navbar-background: #333;
    --chat-background: rgb(58, 58, 58);
-   --second-color: #13a549;
+   --second-color: #1fcc4d;
    --border-color: rgb(92, 91, 91);
    --text-color: white;
 }
@@ -30,7 +32,7 @@ body.dark {
    max-width: 580px;
    height: 550px;
    margin: 20px auto;
-   border: 1px solid #53c070;
+   border: 1px solid #25d311;
    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
    background: var(--chat-background);
 }
@@ -181,14 +183,14 @@ body.dark {
 .onoffswitch-inner:before {
    content: "ON";
    padding-left: 10px;
-   background-color: #41D627;
+   background-color: rgb(58, 58, 58);
    color: #fff;
 }
 
 .onoffswitch-inner:after {
    content: "OFF";
    padding-right: 10px;
-   background-color: #ED2323;
+   background-color: #fd0000;
    color: #fff;
    text-align: right;
 }

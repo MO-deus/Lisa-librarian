@@ -1,5 +1,5 @@
 {
-    "name": "artichoke_chat",
+    "name": "Lisa_librarian",
     "version": "1.0.0",
     "description": "A Simple Chat Client",
     "main": "server.js",
@@ -8,29 +8,29 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/irevenko/ArtichokeChat.git"
+        "url": "https://github.com/MO-deus/Lisa-librarian"
     },
     "keywords": [
         "chat",
         "socket.io",
         "express"
     ],
-    "author": "Ilya Revenko <ilya.revenko17@gmail.com>",
+    "author": "Kush Waikr",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/irevenko/ArtichokeChat/issues"
+        "url": "https://github.com/MO-deus/Lisa-librarian"
     },
-    "homepage": "https://github.com/irevenko/ArtichokeChat#readme",
+    "homepage": "https://github.com/MO-deus/Lisa-librarian/#readme",
     "dependencies": {
         "dotenv": "^16.0.3",
         "express": "^4.17.1",
-        "openai": "^3.2.1",
+        "openai": "^3.3.0",
         "socket.io": "^2.3.0"
     },
     "devDependencies": {
-        "eslint": "^6.8.0",
+        "eslint": "^8.45.0",
         "eslint-config-airbnb-base": "^14.1.0",
         "eslint-plugin-import": "^2.20.2",
-        "nodemon": "^2.0.2"
+        "nodemon": "^3.0.1"
     }
 }
